@@ -109,5 +109,5 @@ cv2.destroyAllWindows()
 #             cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
 # cv2.imshow('Weed Classification', test_image)
 
-# cv2.waitKey(q)
+# cv2.waitKey(0)
 # cv2.destroyAllWindows()
